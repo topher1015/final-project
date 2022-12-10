@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int run = 10, basket = 8, sleep = 1;
+    int run = 15, basket = 8, sleep = 1;
     int weight, mets, min;
 
    cout<<"Enter weight in pounds.\n";
